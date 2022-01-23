@@ -1,0 +1,6 @@
+Note:
+Had there been more time, the following things would've implemented/improved:
+
+Include Date and Time in Google Sheets File
+Add option change Email and add more than one user.
+
